@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Boilerplate wordpress plugin.
 
 ## Description
-This is a boilerplate for creating a WordPress plugin. It is based on [DevinVinson's WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) with some code style changes to fit our preferences.
+This is a boilerplate for creating a WordPress plugin. It is based on DevinVinson's WordPress Plugin Boilerplate (https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) with some code style changes to fit our preferences.
 
 ## Features
 - Basic plugin structure
@@ -43,4 +43,14 @@ plugin-name/ ├── includes/ │ ├── class-plugin-name-activator.php �
 This plugin is licensed under the GPLv2 or later.
 
 ## Credits
-- [DevinVinson's WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+- DevinVinson's WordPress Plugin Boilerplate (https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
+
+
+== Changelog ==
+
+All notable changes to this project will be documented in this file.
+
+The format is based on Keep a Changelog (https://keepachangelog.com/en/1.0.0/),
+and this project adheres to Semantic Versioning (https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
